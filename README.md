@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vchiao
-- 👀 I’m new to coding so be nice!
+- 👀 I’m new to coding so just exploring!
 - 🌱 I’m currently learning Python and Javascript, and getting more comfortable with HTML and CSS.
 
 <!---
